@@ -3,10 +3,11 @@ React
 
 ### Snapshot
 
-![]()
+![](https://github.com/geraldgsh/react-valid-form/blob/development/src/assets/images/screenshot.JPG?raw=true)
 
 ### Introduction.
 
+A React sign up form that makes API calls with dynamic validator.
 
 ### Tools
 
@@ -18,12 +19,7 @@ React
 * CSS
 * ES6
 * Webpack
-
-### Project Objectives
-
-
-### Microverse Requirements
-
+* SweetAlert2
 
 ### Linter Setup
 
