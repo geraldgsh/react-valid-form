@@ -188,8 +188,6 @@ Web browser like Chrome, Mozilla or similar.
 
 ### Original Project Source
 
-[Link](https://css-tricks.com/building-a-real-time-chat-app-with-react-and-firebase/)
-[Link](https://github.com/Dunebook/Firebase-auth-chat-app/)
 
 ### Github Repo
 https://github.com/geraldgsh/react-valid-form
@@ -205,8 +203,7 @@ Linkedin: [Gerald Goh](https://www.linkedin.com/geraldgsh)
 ## 🤝 Contributing
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/geraldgsh/
-react-valid-form/issues).
+Feel free to check the [issues page](https://github.com/geraldgsh/react-valid-form/issues).
 
 ## Show your support
 
